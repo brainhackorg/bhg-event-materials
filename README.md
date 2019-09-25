@@ -13,3 +13,6 @@ Welcome Pack includes:
 * PR material: [Logo](https://drive.google.com/drive/folders/1nQmkGg5LfYBT3ngeOv7mZnd36QpDm1_E?usp=sharing)
 * [List of Open Science Tools for Running Tutorials/Data Storage etc.](https://github.com/Remi-Gau/hitchhackers_guide_brain) 
 * Instructions for Broadcasting
+
+
+We are currently working on all possibly needed materials to add here. Please bear with us and share your requests and recommendations via the email above! Thank you!
