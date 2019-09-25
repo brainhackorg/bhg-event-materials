@@ -15,4 +15,4 @@ Welcome Pack includes:
 * Instructions for Broadcasting
 
 
-We are currently working on all possibly needed materials to add here. Please bear with us and share your requests and recommendations via the email above! Thank you!
+We are currently working on all materials you may need. Please bear with us and share your thoughts via the email above! Thank you!
