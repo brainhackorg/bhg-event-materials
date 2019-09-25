@@ -4,7 +4,7 @@ If you are gazing your eyes on this repository, :eyes: it means you are a potent
 To learn more about the details on hosting a Brainhack event on your local institute, please read through the How to Guideline we provide with other materials listed here. For more information, please contact the Brainhack Organisation Team via e-mail to brainhackorg@gmail.com. 
 
 Welcome Pack includes:
-* [How to Guideline for Running a Successful Hackathon](https://docs.google.com/document/d/1yUnRBrH0vcl3Kap7VUdazRvImUVebeWT_4Zp5QAqDZY/edit?usp=sharing)
+* [How to Guideline for Running a Successful Brainhack](https://docs.google.com/document/d/1yUnRBrH0vcl3Kap7VUdazRvImUVebeWT_4Zp5QAqDZY/edit?usp=sharing)
 * [Event Checklist](https://docs.google.com/spreadsheets/d/1Oo86o-59AaLyH5INGWRrGciNlBHgJ9HB_Ssrd2P7n40/edit?usp=sharing)
 * [Local Website Template](https://github.com/brainhackorg/local_brainhack)
 * How to Set up an Website Guideline
