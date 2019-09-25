@@ -9,6 +9,6 @@ Welcome Pack includes:
 * How to Set up Website Guideline
 * [Registration Form Question Suggestions](https://docs.google.com/document/d/13Sd9AIPLR_Ug0ZY08gtcimlQXZ3wRHYrIVGp7fcUzGw/edit?usp=sharing)
 * Attendee Selection Algorithm
-* PR material: Logo, Templates for Posters and E-mails
+* PR material: [Logo](https://drive.google.com/drive/folders/1nQmkGg5LfYBT3ngeOv7mZnd36QpDm1_E?usp=sharing), Templates for Posters and E-mails
 * List of Open Science Tools for Running Tutorials/Data Storage etc. 
 * Instructions for Broadcasting
