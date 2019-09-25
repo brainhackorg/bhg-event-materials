@@ -6,6 +6,7 @@ To learn more about the details on hosting a Brainhack event on your local insti
 Welcome Pack includes:
 * [How to Guideline for Running a Successful Hackathon](https://docs.google.com/document/d/1yUnRBrH0vcl3Kap7VUdazRvImUVebeWT_4Zp5QAqDZY/edit?usp=sharing)
 * [Event Checklist](https://docs.google.com/spreadsheets/d/1Oo86o-59AaLyH5INGWRrGciNlBHgJ9HB_Ssrd2P7n40/edit?usp=sharing)
+* [Local Website Template](https://github.com/brainhackorg/local_brainhack)
 * How to Set up an Website Guideline
 * [Registration Form Question Suggestions](https://docs.google.com/document/d/13Sd9AIPLR_Ug0ZY08gtcimlQXZ3wRHYrIVGp7fcUzGw/edit?usp=sharing)
 * Attendee Selection Algorithm
