@@ -1,6 +1,6 @@
 # Welcome Pack
 
-If you are gazing your eyes on this repository, :eyes: it means you are a potential Brainhack Local host in a very near future!
+If you are gazing your eyes on this repository :eyes: it means you are a potential Brainhack Local host in a very near future!
 To learn more about the details on hosting a Brainhack event on your local institute, please read through the How to Guideline we provide with other materials listed here. For more information, please contact the Brainhack Organisation Team via e-mail to brainhackorg@gmail.com. 
 
 Welcome Pack includes:
