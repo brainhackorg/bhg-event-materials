@@ -1,4 +1,4 @@
-#Brainhack Global Event Materials
+# Brainhack Global Event Materials
 
 
 If you are gazing your eyes on this repository :eyes: it means you are a potential Brainhack Local host in a very near future!
