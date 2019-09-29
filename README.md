@@ -13,7 +13,9 @@ Materials include:
 * Attendee Selection Algorithm
 * [Multimedia materials](/media)
 * [List of Open Science Tools for Running Tutorials/Data Storage etc.](https://github.com/Remi-Gau/hitchhackers_guide_brain)
+* [Brainhack Tutorials Playlists](https://www.youtube.com/playlist?list=PLfqBzCl5BL394JtAdI4xJEH9vbmVYfE3j)
+* [Brainhack 101 Playlist](https://www.youtube.com/watch?v=XyMCsEGPcjM&list=PLfqBzCl5BL3-Gu1Wah_x_BoxcmgzVgpjx)
+* [Brainhack Open Science, Reproducability and Reprouctivitiy](https://www.youtube.com/watch?v=w1A8BvJuN3s&list=PLfqBzCl5BL3-j_YW8qmxLY9R0MgPVtspN)
 * Instructions for Broadcasting
-
 
 We are currently working on all materials you may need. Please bear with us and share your thoughts via the email above! Thank you!
