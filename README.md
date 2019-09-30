@@ -11,9 +11,12 @@ Materials include:
 * How to Set up an Website Guideline
 * [Registration Form Question Suggestions](https://docs.google.com/document/d/13Sd9AIPLR_Ug0ZY08gtcimlQXZ3wRHYrIVGp7fcUzGw/edit?usp=sharing)
 * Attendee Selection Algorithm
-* [Multimedia materials](/media)
-* [List of Open Science Tools for Running Tutorials/Data Storage etc.](https://github.com/Remi-Gau/hitchhackers_guide_brain)
-* Instructions for Broadcasting
-
+* Multimedia materials
+  * [Public relations material](/media)
+  * [List of Open Science Tools for Running Tutorials/Data Storage etc.](https://github.com/Remi-Gau/hitchhackers_guide_brain)
+  * [Brainhack Tutorials Playlists](https://www.youtube.com/playlist?list=PLfqBzCl5BL394JtAdI4xJEH9vbmVYfE3j)
+  * [Brainhack 101 Playlist](https://www.youtube.com/watch?v=XyMCsEGPcjM&list=PLfqBzCl5BL3-Gu1Wah_x_BoxcmgzVgpjx)
+  * [The informatics underlying meta-analysis and reproducibility in neuroimaging](https://www.youtube.com/watch?v=w1A8BvJuN3s&list=PLfqBzCl5BL3-j_YW8qmxLY9R0MgPVtspN)
+  * Instructions for Broadcasting
 
 We are currently working on all materials you may need. Please bear with us and share your thoughts via the email above! Thank you!
