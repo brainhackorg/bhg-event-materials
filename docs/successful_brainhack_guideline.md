@@ -14,11 +14,11 @@ Therefore organizing and providing a well planned, efficiently resourced, and
 flexible environment to each of your attendees should be the main aim that will
 lead you to a successful, productive, and memorable event. Please keep those
 aims in mind and follow the recommendations given in this _How to Guideline_
-prepared by the Brainhack Global (BHG) Organization Committee which are based on
+prepared by the Brainhack Global (BHG) Organizing Committee which are based on
 years of experience of running the BHG event all around the world. Please do not
-forget that that the BHG Organization Committee is there to make your job easier
+forget that that the BHG Organizing Committee is there to make your job easier
 and more efficient, so please keep in contact with the members of the BHG
-Organization Committee ([brainhackorg@gmail.com](mailto:brainhackorg@gmail.com))
+Organizing Committee ([brainhackorg@gmail.com](mailto:brainhackorg@gmail.com))
 while you are planning and running the event.
 
 ## Things to Do Severals Months Ahead
@@ -27,18 +27,18 @@ while you are planning and running the event.
 
 One of the keys to a successful BHG event lies in effective communication across
 all the event sites. Therefore, from the very beginning, please choose a
-reliable contact point that will correspond with the BHG Organization Committee.
+reliable contact point that will correspond with the BHG Organizing Committee.
 At the same time, you also have to choose a contact point that will reply to the
 questions coming from potential Brainhack attendees. To that end, you can assign
 either the same BHG contact point or a team of volunteers.
 
 Once you have decided to host a local Brainhack event, please contact the BHG
-Organization Committee and declare your interest in doing so. The BHG Organization
+Organizing Committee and declare your interest in doing so. The BHG Organizing
 Committee will contact you with several questions about the planned event. They
 will also provide you with a [Brainhack Global event materials](https://github.com/brainhackorg/bhg-event-materials)
 that, among others, includes this _How to Guideline_. It is recommended to keep
-the BHG Organization Committee up to date with your plans and preparations to swiftly get the
-support you need.
+the BHG Organizing Committee up to date with your plans and preparations to
+swiftly get the support you need.
 
 ### Securing the Venue
 
