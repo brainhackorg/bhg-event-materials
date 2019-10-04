@@ -62,7 +62,16 @@ practical issues to deal with. Here, we offer you an expandable checklist in
 which you can check off all the venue-related issues you have already
 considered/provided for:
 
-#### Costs
+#### Funding
+
+**Before showing your interest in hosting a Brainhack event**, you should make
+sure that you have the financial resources to run an event. Note that the BHG
+Organizing Committee does not have funding resources and is run entirely by
+a volunteering group of people. Similarly, the BHG Organizing Committee may not
+be aware of the specifics of your country concerning banking, tax regime, etc.
+
+Hence, you will need to contact your institution's financial department to
+discuss these issues.
 
 To avoid any hidden costs, make sure that you discuss [all the potential costs](#Determining-costs-and-securing-funding/sponsor(s))
 that might come up throughout the event with the venue administrator(s).
@@ -180,8 +189,17 @@ the necessary funding/sponsor(s). When you handle the money-related processes,
 it is always beneficial to seek financial advice from your institution to deal
 with money and filing income, expenses, and taxes related to official
 registrations. If money is collected from the attendees, you may declare it for
-tax purposes. Here, we offer you an expandable checklist in which you can check
-off all the money-related issues you have already considered/provided for:
+tax purposes.
+
+The BHG Organizing Committee cannot substitute the financial department of your
+institution. Note that the BHG Organizing Committee may not know about the
+funding schemes of your institution, or other financial issues in your country
+(e.g. registering a bank account, laws concerning tax exemptions or deductions,
+etc.). Hence, you will need to contact your institution's financial department
+to discuss these issues.
+
+Here, we provide aspects that you should study to estimate the potential costs
+you will incur in when organizing a local event:
 
 #### Determining costs
 
@@ -202,9 +220,9 @@ accessing the wireless networks, program leaflets, instructions for locations
 (presentation/hacking rooms, bathrooms, etc.) together with a map of the venue,
 meal coupons, etc. Again, prices will vary depending on what you need along with
 the magnitude of your printing order.
-- **Travel stipends**: if you have secured sufficient funding/sponsor(s), providing
-travel stipends to a select few attendees is a great way to increase the
-inclusivity of your event.
+- **Travel stipends**: if you have secured sufficient funding/sponsor(s),
+providing travel stipends to a select few attendees is a great way to increase
+the inclusivity of your event.
 - [**Giveaways**](#givewaways):
   - For free giveaways, we recommend you to use your resources wisely and to
   make sure that you have enough leftovers to spend on those giveaways after the
