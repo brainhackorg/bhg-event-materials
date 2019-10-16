@@ -10,7 +10,6 @@ Materials include:
 * [Local Website Template](https://github.com/brainhackorg/local_brainhack)
 * How to Set up an Website Guideline
 * [Registration Form Question Suggestions](https://docs.google.com/document/d/13Sd9AIPLR_Ug0ZY08gtcimlQXZ3wRHYrIVGp7fcUzGw/edit?usp=sharing)
-* Attendee Selection Algorithm
 * Multimedia materials
   * [Public relations material](/media)
   * [List of Open Science Tools for Running Tutorials/Data Storage etc.](https://github.com/Remi-Gau/hitchhackers_guide_brain)
