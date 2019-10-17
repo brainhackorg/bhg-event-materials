@@ -807,8 +807,8 @@ the lack of funding. In such cases, please let your attendees know before the
 event starts and make sure that they either supply their own food or guide them
 to the local shops and restaurants. 
 
-In the case of you are tight on budget but you still want to provide something 
-that will make your attendees happy then why you do not look at our [Get a Hold of Your Donuts: An Ultimate Guideline for Donuts!](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/get_a_hold_of_your_donuts.md). We are sure you will find something that definitely will make all jolly good ;) .
+If you are tight on budget, but still want to provide something 
+to make your attendees happy, then why don't you take a look at our [Get a Hold of Your Donuts: An Ultimate Guideline for Donuts!](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/get_a_hold_of_your_donuts.md). We are sure you will find something that definitely will make all jolly good :wink:.
 
 
 ## Things to Do a Week Ahead
