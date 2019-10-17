@@ -4,7 +4,7 @@ One of the most important aspects of Brainhacks is having donuts in place! We ca
 
 We know it is a big responsibility, but as you know, every well-done responsibility comes with big joy afterward. As Brainhack Global 2019 organizing team, this year we are going bold and taking the initiative and helping you all in your selection of donuts! Don't worry, we got you!
 
-Here is the explanation. We went out to the street, and asked tons of people on how a perfect donut should be like! And here we curated the results here. Pffff ooookkey, you got me! We didn't run such a survey! Let say our ethics application hasn't gone through yet, but as if, right? 
+Here is the explanation. We went out to the street, and asked tons of people on how a perfect donut should be like! And we curated the results here... Pffff ooookkey :roll_eyes: , you got me! We didn't run such a survey! Let say our ethics application hasn't gone through yet, but as if, right? 
 
 Well, in such case here is our selection of sources for the description of perfect donuts and the science behind it! So we sure it will help! Please have a look at, we promise you they are really good! (Warning! The following contents might make you carving for donuts! So get the wallets ready!)
 
