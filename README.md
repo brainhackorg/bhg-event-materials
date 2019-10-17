@@ -10,7 +10,7 @@ Materials include:
 * [Local Website Template](https://github.com/brainhackorg/local_brainhack)
 * How to Set up an Website Guideline
 * [Registration Form Question Suggestions](https://docs.google.com/document/d/13Sd9AIPLR_Ug0ZY08gtcimlQXZ3wRHYrIVGp7fcUzGw/edit?usp=sharing)
-* [Get a Hold of Your Donuts: Ultimate Guideline for Donuts!](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/get_a_hold_of_your_donuts.md)
+* [Get a Hold of Your Donuts: An Ultimate Guideline for Donuts!](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/get_a_hold_of_your_donuts.md)
 * Multimedia materials
   * [Public relations material](/media)
   * [List of Open Science Tools for Running Tutorials/Data Storage etc.](https://github.com/Remi-Gau/hitchhackers_guide_brain)
