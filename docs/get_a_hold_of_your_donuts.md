@@ -6,7 +6,7 @@ We know it is a big responsibility, but as you know, every well-done responsibil
 
 Here is the explanation. We went out to the street, and asked tons of people on how a perfect donut should be like! And here we curated the results here. Pffff ooookkey, you got me! We didn't run such a survey! Let say our ethics application hasn't gone through yet, but as if, right? 
 
-Well, in such case here is our selection of sources for the description perfect donuts and the science behind it! So we sure it will help! Have a look at, we promise you they are really good! (Warning! The following contents might make you carving for donuts! So get the wallets ready!)
+Well, in such case here is our selection of sources for the description of perfect donuts and the science behind it! So we sure it will help! Have a look at, we promise you they are really good! (Warning! The following contents might make you carving for donuts! So get the wallets ready!)
 
 
 * [The History of Donuts]( https://www.onegreenplanet.org/vegan-food/the-history-of-the-donut/)
