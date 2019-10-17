@@ -805,7 +805,10 @@ same places to be inclusive.
 There might be cases where you might not provide food to the attendees due to
 the lack of funding. In such cases, please let your attendees know before the
 event starts and make sure that they either supply their own food or guide them
-to the local shops and restaurants.
+to the local shops and restaurants. 
+
+In the case of you are tight on budget but you still want to provide something 
+that will make your attendees happy then why you do not look at our [Get a Hold of Your Donuts: Ultimate Guideline for Donuts!](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/get_a_hold_of_your_donuts.md). We are sure you will find something that definitely will make all jolly good ;) .
 
 
 ## Things to Do a Week Ahead
