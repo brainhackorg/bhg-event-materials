@@ -11,6 +11,9 @@ Materials include:
 * How to Set up an Website Guideline
 * [Registration Form Question Suggestions](https://docs.google.com/document/d/13Sd9AIPLR_Ug0ZY08gtcimlQXZ3wRHYrIVGp7fcUzGw/edit?usp=sharing)
 * [Get a Hold of Your Donuts: An Ultimate Guideline for Donuts!](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/get_a_hold_of_your_donuts.md)
+* [Afterevent Feedback Form](https://docs.google.com/forms/d/1od8JauF18uLxFv7AA95Aty-wlFMKgop2oR4Le7yaMS8/edit)
+
+
 * Multimedia materials
   * [Public relations material](/media)
   * [List of Open Science Tools for Running Tutorials/Data Storage etc.](https://github.com/Remi-Gau/hitchhackers_guide_brain)
