@@ -2,11 +2,13 @@
 
 One of the most important aspects of Brainhacks is having donuts in place! We can hear that you are stressed already for how on earth you will be going for the right selection of donuts that will be inclusive enough for all of your attendee's palate and preference!
 
-We know it is a big responsibility, but as you know, every well-done responsibility comes with big joy afterward. As Brainhack Global 2019 organizing team, this year we are going bold and taking the initiative and helping you all in your selection of donuts! Don't worry, we got you!
+Yeah,we know it is a big responsibility! But as you know, every well-done responsibility comes with a big joy afterward! As Brainhack Global 2019 organizing team, this year we are going bold, we are taking the initiative and helping you all in your selection of donuts! Don't worry, we got you!
 
-Here is the explanation. We went out to the street, and asked tons of people on how a perfect donut should be like! And we curated the results here... Pffff ooookkey :roll_eyes: , you got me! We didn't run such a survey! Let say our ethics application hasn't gone through yet, but as if, right? 
+How? Here is the explanation. We went out to the street, and asked tons of people that how a perfect donut should be like! And we curated the results here... Pffff ooookkey :roll_eyes: , you got me! We didn't run such a survey! Let say our ethics application hasn't gone through yet, but as if, right? 
 
-Well, in such case here is our selection of sources for the description of perfect donuts and the science behind it! So we sure it will help! Please have a look at, we promise you they are really good! (**Warning!** The following contents might make you carving for donuts! So get the wallets ready!)
+Well, in such case here is our selection of sources for the description of perfect donuts and the science behind it! So we are sure that it will help! Please have a look at, we promise you that they are really good! 
+
+**Warning!** The following contents might make you carving for donuts! So get the wallets ready!
 
 
 * [The History of Donuts]( https://www.onegreenplanet.org/vegan-food/the-history-of-the-donut/)
