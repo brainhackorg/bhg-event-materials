@@ -6,6 +6,7 @@ To learn more about the details on hosting a Brainhack event on your local insti
 
 Materials include:
 * [*How to* Guideline for Running a Successful Brainhack](docs/successful_brainhack_guideline.md)
+
 * [*How to* Guideline for Leading and Attending to Brainhack Projects](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md)
 * [Event Checklist](https://docs.google.com/spreadsheets/d/1Oo86o-59AaLyH5INGWRrGciNlBHgJ9HB_Ssrd2P7n40/edit?usp=sharing)
 * [Local Website Template](https://github.com/brainhackorg/local_brainhack)
