@@ -22,6 +22,6 @@ Materials include:
   * [Brainhack Tutorials Playlists](https://www.youtube.com/playlist?list=PLfqBzCl5BL394JtAdI4xJEH9vbmVYfE3j)
   * [Brainhack 101 Playlist](https://www.youtube.com/watch?v=XyMCsEGPcjM&list=PLfqBzCl5BL3-Gu1Wah_x_BoxcmgzVgpjx)
   * [The informatics underlying meta-analysis and reproducibility in neuroimaging](https://www.youtube.com/watch?v=w1A8BvJuN3s&list=PLfqBzCl5BL3-j_YW8qmxLY9R0MgPVtspN)
-  * Instructions for Broadcasting
+  * [Instructions for Broadcasting](/docs/brainhack_broadcasting_instructions.md)
 
 We are currently working on all materials you may need. Please bear with us and share your thoughts via the email above! Thank you!
