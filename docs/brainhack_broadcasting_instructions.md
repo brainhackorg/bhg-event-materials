@@ -142,7 +142,7 @@ https://wiki.videolan.org/Documentation:Streaming_HowTo_New/#Streaming_using_the
 
 ### Zoom
 
-Zoom is a meeting platform provides many features for discussions and streaming. If you would prefer an enviroment that allows your followers to engage with your streaming you can also use this platform. For more detailed explanation on how to set up the tool please visit [Broadcast using a Zoom Room or Desktop Client](
+Zoom is a meeting platform provides many features for discussions and streaming. If you would prefer an enviroment that allows your followers to engage with your streaming via [chat function](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat) you can also use this platform. For more detailed explanation on how to set up the tool please visit [Broadcast using a Zoom Room or Desktop Client](
 https://support.zoom.us/hc/en-us/articles/360024605572-Broadcast-using-a-Zoom-Room-or-Desktop-Client).
 
 
