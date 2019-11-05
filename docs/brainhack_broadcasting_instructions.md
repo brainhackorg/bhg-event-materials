@@ -129,18 +129,21 @@ further details or troubleshooting.
 
 ### Open Broadcaster Software (OBS)
 
-Please visit the [OPBS Studio Wiki](https://obsproject.com/wiki/) for
-information on how to broadcast your Brainhack using OBS.
+For the quick help for streaming with OBS you can have a look at this [wiki page](https://obsproject.com/wiki/OBS-Studio-Quickstart)
+
+For more details on how to make advance set ups please visit the [OPBS Studio Wiki](https://obsproject.com/wiki/).
 
 
 ### VLC media player
 
-Please visit the [VLC media player Streaming HowTo documentation](
-https://wiki.videolan.org/Documentation:Streaming_HowTo_New/#Streaming_using_the_GUI)
-for information on how to broadcast your Brainhack using VLC media player.
+We would recommend you to visit [VLC media player Streaming HowTo documentation](
+https://wiki.videolan.org/Documentation:Streaming_HowTo_New/#Streaming_using_the_GUI) for quick and very clear instructions about how to stream guideline with screenshots showing the menu choices.
+
 
 ### Zoom
 
-Please visit [Broadcast using a Zoom Room or Desktop Client](
-https://support.zoom.us/hc/en-us/articles/360024605572-Broadcast-using-a-Zoom-Room-or-Desktop-Client)
-for information on how to broadcast your Brainhack using Zoom.
+Zoom is a meeting platform provides many features for discussions and streaming. If you would prefer an enviroment that allows your followers to engage with your streaming you can also use this platform. For more detailed explanation on how to set up the tool please visit [Broadcast using a Zoom Room or Desktop Client](
+https://support.zoom.us/hc/en-us/articles/360024605572-Broadcast-using-a-Zoom-Room-or-Desktop-Client).
+
+
+
