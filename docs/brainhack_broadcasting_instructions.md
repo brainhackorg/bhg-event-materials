@@ -25,9 +25,9 @@ speakers. This allows to minimize the ambient noise and thus to improve the
 audio quality. Note that during the question time, it is recommended that the
 speaker repeats the question to improve the experience both for the on-site
 attendees and the live audience.
-3. Light. Make sure that the projection screen have an appropriate lighting
+3. **Light**. Make sure that the projection screen have an appropriate lighting
 conditions both for the on-site ateendees and the live audience.
-4. Internet connection.
+4. **Internet connection**.
 
 ## Broadcasting Procedure
 
