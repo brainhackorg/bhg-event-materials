@@ -10,7 +10,7 @@ Materials include:
 * [*How to* Guideline for Leading and Attending to Brainhack Projects](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md)
 * [Event Checklist](https://docs.google.com/spreadsheets/d/1Oo86o-59AaLyH5INGWRrGciNlBHgJ9HB_Ssrd2P7n40/edit?usp=sharing)
 * [Local Website Template](https://github.com/brainhackorg/local_brainhack)
-* [Broadcasting Guideline](https://github.com/brainhackorg/bhg-event-materials/blob/824f94531ab8a388433340ddffc4bc4a7f68197c/docs/brainhack_broadcasting_instructions.md)
+* [Broadcasting Guideline](hhttps://github.com/brainhackorg/bhg-event-materials/blob/master/docs/brainhack_broadcasting_instructions.md)
 * [Registration Form Question Suggestions](https://docs.google.com/document/d/13Sd9AIPLR_Ug0ZY08gtcimlQXZ3wRHYrIVGp7fcUzGw/edit?usp=sharing)
 * [Get a Hold of Your Donuts: An Ultimate Guideline for Donuts!](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/get_a_hold_of_your_donuts.md)
 * [Afterevent Feedback Form](https://docs.google.com/forms/d/1od8JauF18uLxFv7AA95Aty-wlFMKgop2oR4Le7yaMS8/edit)
