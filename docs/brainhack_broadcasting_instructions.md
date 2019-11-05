@@ -106,7 +106,7 @@ broadcast your Brainhack.
 
    2. If you will be using an **external webcam**
 
-      1. Select the stream from the upper menu and fill the necessary descriptions
+      1. Select the stream from the upper menu and fill the necessary descriptions 
       in the pop-up menu.
 
       ![](../support/broadcasting_brainhack/broadcasting_brainhack_youtube_external_webcam_device.png)
@@ -132,6 +132,13 @@ further details or troubleshooting.
 For the quick help for streaming with OBS you can have a look at this [wiki page](https://obsproject.com/wiki/OBS-Studio-Quickstart)
 
 For more details on how to make advance set ups please visit the [OPBS Studio Wiki](https://obsproject.com/wiki/).
+
+Those everal Youtube tutorials listed below might also be helpful to go over and set your streaming via OBS please do have a look at those videos. 
+
+[How To Use OBS Studio To Live Stream - Twitch and YouTube](https://www.youtube.com/watch?v=BgpDb1XDDfY)
+
+[OBS Studio Tutorial 2018](https://www.youtube.com/watch?v=j2HzbY8E4yQ)
+
 
 
 ### VLC media player
