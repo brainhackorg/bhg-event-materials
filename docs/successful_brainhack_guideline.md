@@ -1049,4 +1049,47 @@ recognized and cited properly. For more information on how to make code citable
 using a DOI, you can refer to/share [these guidelines](https://guides.github.com/activities/citable-code/) with your attendees.
 
 
+**Publishing in the F1000Research Brainhack Global collection
+
+F1000Research is pleased to be supporting Brainhack Global 2019 with a collection that invites publication of outputs from all the Brainhack events. 
+
+**What is F1000Research?
+
+F1000Research is an Open Access publishing platform established in 2013 with the aim of fast and transparent publishing. We publish a range of different article types, from traditional research articles, to software tools, method articles, data notes and more without editorial bias. All articles benefit from open post-publication peer review and editorial guidance on making all source data openly available.
+
+**How does the publishing process at F1000Research work?
+
+•	**Submission:** Articles are submitted through an online submission system and, to avoid delay, published rapidly (usually within a week or two).  When an article is submitted, the F1000Research editorial team carry out initial checks on all submitted articles before publication to ensure that all policies are adhered to, such as checks for plagiarism, and readability. 
+•	**Publication:** Once an article has passed all the sufficient checks it is published on the F1000Research platform (and tagged within the Brainhack Global collection). At this point the article has a DOI and is citable but is clearly labelled ‘awaiting peer review’.
+•	**Peer review:** Peer reviewers are suggested by the authors following specific criteria and all suggestions undergo careful checks by the F1000Research editorial team for suitability and any competing interests. Peer reviewers assess on the technical aspects of the article (not novelty or significance) and are required to make one of three statuses: approved, approved with reservations, or not approved (denoted by symbols on the article). These are accompanied by a detailed peer review report, which appears online alongside the article, together with the reviewer names and affiliations. 
+•	**Author response and versioning:** Authors can respond publicly to reviewer reports and this typically results in the submission of a revised article together with a short summary of the changes. New versions are published linked with all previous versions of an article. Reviewers are then contacted to inform them of new versions and asked whether earlier concerns have been adequately addressed. To ensure the peer review status (and version) of any article is always immediately obvious, we include a dynamic citation format that notes both the version numbering and the peer review status in the title of the article.
+•	**Indexing and discoverability:** Articles published on F1000Research are immediately indexed in Google Scholar. Independent permanent archives such as PubMed, PubMed Central, Scopus and other bibliographic databases index F1000Research papers that have passed peer review i.e they have received at least 2 “Approved” referee statuses, or 1 “Approved” plus 2 “Approved with Reservations” statuses.
+
+More information can be found [here](https://f1000research.com/about) and [here](https://f1000research.com/faqs)
+
+**What can be submitted to the collection?**
+We are welcoming any of the different article types for the Brainhack Global collection, but feel the software tool articles and potentially the data notes and brief reports will be the most appropriate for Brainhack outputs. Our article guidelines can be found here. We aim to make it easy for authors and, where possible, offer some flexibility in terms of formats and structure. We have published a range of articles from hackathons in the past and are happy to publish short outputs that aren’t a ‘complete’ story but will provide use to the community. 
+
+**How do I submit?**
+Authors can submit directly through the Brainhack Global collection- [here](https://f1000research.com/collections/brainhack/for-authors/publish-your-research). If you are writing a software tool article you can also submit via Overleaf with our template. 
+F1000Research charges [Article Processing Charges](https://f1000research.com/for-authors/article-processing-charges) by word count. We find most software tool articles fall into either the short or medium article category. **F1000Research is offering 20% off these listed prices for articles submitted to the Brainhack Global collection.**
+
+**What are the benefits of publishing on F1000Research?**
+•	The publishing process is fast, easy and transparent 
+•	Publishing an article in the collection is a great way to get additional credit for your participation in the event, whilst bringing further visibility to any outputs you’ve created
+•	We are able to host interactive figures via [Plotly](https://blog.f1000.com/2017/07/19/so-long-static-we-now-support-interactive-ploty-figures-in-our-articles/) as part of a publication allowing authors more flexibility in terms of presenting their data
+•	Updates to articles can be published at any time, keeping the article cohesive and up to date for anyone utilising your tool
+•	F1000Research is particularly of use to early career researchers as the platform allows you to showcase smaller outputs that can be difficult to publish in ‘traditional’ journals, build up your academic CV and engage with the research community openly, which can potentially lead to further collaborations 
+
+
+
+
+
+
+
+
+
+
+
+
 The Brainhack Global 2019 Organizing Committee
