@@ -106,7 +106,7 @@ broadcast your Brainhack.
 
    2. If you will be using an **external webcam**
 
-      1. Select the stream from the upper menu and fill the necessary descriptions 
+      1. Select the stream from the upper menu and fill the necessary descriptions
       in the pop-up menu.
 
       ![](../support/broadcasting_brainhack/broadcasting_brainhack_youtube_external_webcam_device.png)
@@ -129,9 +129,11 @@ further details or troubleshooting.
 
 ### Open Broadcaster Software (OBS)
 
-For the quick help for streaming with OBS you can have a look at this [wiki page](https://obsproject.com/wiki/OBS-Studio-Quickstart)
+For the quick help for streaming with OBS you can have a look at this
+[wiki page](https://obsproject.com/wiki/OBS-Studio-Quickstart)
 
-For more details on how to make advance set ups please visit the [OPBS Studio Wiki](https://obsproject.com/wiki/).
+For more details on how to make advance set ups please visit the
+[OPBS Studio Wiki](https://obsproject.com/wiki/).
 
 The Youtube tutorials listed below might also be helpful in order to set your
 streaming via OBS. Please, have a look at them !
@@ -140,18 +142,18 @@ streaming via OBS. Please, have a look at them !
 
 [OBS Studio Tutorial 2018](https://www.youtube.com/watch?v=j2HzbY8E4yQ)
 
-
-
 ### VLC media player
 
 We would recommend you to visit [VLC media player Streaming HowTo documentation](
-https://wiki.videolan.org/Documentation:Streaming_HowTo_New/#Streaming_using_the_GUI) for quick and very clear instructions about how to stream guideline with screenshots showing the menu choices.
-
+https://wiki.videolan.org/Documentation:Streaming_HowTo_New/#Streaming_using_the_GUI)
+for quick and very clear instructions about how to stream guideline with
+screenshots showing the menu choices.
 
 ### Zoom
 
-Zoom is a meeting platform provides many features for discussions and streaming. If you would prefer an environment that allows your followers to engage with your streaming via [chat function](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat) you can also use this platform. For more detailed explanation on how to set up the tool please visit [Broadcast using a Zoom Room or Desktop Client](
+Zoom is a meeting platform provides many features for discussions and streaming.
+If you would prefer an environment that allows your followers to engage with
+your streaming via [chat function](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat)
+you can also use this platform. For more detailed explanation on how to set up
+the tool please visit [Broadcast using a Zoom Room or Desktop Client](
 https://support.zoom.us/hc/en-us/articles/360024605572-Broadcast-using-a-Zoom-Room-or-Desktop-Client).
-
-
-
