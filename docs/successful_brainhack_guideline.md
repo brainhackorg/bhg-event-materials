@@ -1077,7 +1077,7 @@ We are welcoming any of the different article types for the Brainhack Global col
 
 **How do I submit?**
 
-Authors can submit directly through the Brainhack Global collection- [here](https://f1000research.com/collections/brainhack/for-authors/publish-your-research). If you are writing a software tool article you can also submit via Overleaf with our template. 
+Authors can submit directly through the Brainhack Global collection- [here](https://f1000research.com/collections/brainhack/for-authors/publish-your-research). If you are writing a software tool article you can also submit via Overleaf with [our template](https://www.overleaf.com/latex/templates/f1000research-software-paper-template/wcbcqgcryfzk). 
 F1000Research charges [Article Processing Charges](https://f1000research.com/for-authors/article-processing-charges) by word count. We find most software tool articles fall into either the short or medium article category. **F1000Research is offering 20% off these listed prices for articles submitted to the Brainhack Global collection.**
 
 **What are the benefits of publishing on F1000Research?**
