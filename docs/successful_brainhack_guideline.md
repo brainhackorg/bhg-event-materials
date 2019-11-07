@@ -20,7 +20,6 @@ forget that that the BHG Organizing Committee is there to make your job easier
 and more efficient, so please keep in contact with the members of the BHG
 Organizing Committee ([brainhackorg@gmail.com](mailto:brainhackorg@gmail.com))
 while you are planning and running the event.
-
 ## Things to Do Severals Months Ahead
 
 ### Contact Point
