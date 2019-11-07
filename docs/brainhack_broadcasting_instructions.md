@@ -133,7 +133,8 @@ For the quick help for streaming with OBS you can have a look at this [wiki page
 
 For more details on how to make advance set ups please visit the [OPBS Studio Wiki](https://obsproject.com/wiki/).
 
-Those everal Youtube tutorials listed below might also be helpful to go over and set your streaming via OBS please do have a look at those videos. 
+The Youtube tutorials listed below might also be helpful in order to set your
+streaming via OBS. Please, have a look at them !
 
 [How To Use OBS Studio To Live Stream - Twitch and YouTube](https://www.youtube.com/watch?v=BgpDb1XDDfY)
 
@@ -149,7 +150,7 @@ https://wiki.videolan.org/Documentation:Streaming_HowTo_New/#Streaming_using_the
 
 ### Zoom
 
-Zoom is a meeting platform provides many features for discussions and streaming. If you would prefer an enviroment that allows your followers to engage with your streaming via [chat function](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat) you can also use this platform. For more detailed explanation on how to set up the tool please visit [Broadcast using a Zoom Room or Desktop Client](
+Zoom is a meeting platform provides many features for discussions and streaming. If you would prefer an environment that allows your followers to engage with your streaming via [chat function](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat) you can also use this platform. For more detailed explanation on how to set up the tool please visit [Broadcast using a Zoom Room or Desktop Client](
 https://support.zoom.us/hc/en-us/articles/360024605572-Broadcast-using-a-Zoom-Room-or-Desktop-Client).
 
 
