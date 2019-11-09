@@ -214,7 +214,7 @@ vary based on the number of attendees you provide for and the food options (e.g.
 breakfast, lunch, dinner, coffee/refreshments) you would like to offer. Dietary
 requirements have to be taken into account as well.
 - Printing materials: to host a smooth Brainhack event, you will have to prepare
-and print some materials in advance such as name tags, instructions for
+and print some materials in advance such as name badges, instructions for
 accessing the wireless networks, program leaflets, instructions for locations
 (presentation/hacking rooms, bathrooms, etc.) together with a map of the venue,
 meal coupons, etc. Again, prices will vary depending on what you need along with
@@ -884,7 +884,8 @@ rooms and the schedule dedicated to the train track.
 
 ### A Day Before the Hackathon
 
-- Prepare the name tags.
+- Prepare the name badges. Tools to generate the name tags are available at
+[brainhackorg/brainhack_certificates](https://github.com/brainhackorg/brainhack_certificates).
 - Organize the chairs and desks ready for the sitting plan.
 - Check projector and microphone, recorder devices, wireless network connection,
 electrical plugs and extensions, heaters/coolers, lightings.
@@ -895,7 +896,7 @@ electrical plugs and extensions, heaters/coolers, lightings.
 - Post signs for the emergency info.
 - Arrange the leaflets with the information about the venue/city.
 - Arrange to recycle bins if necessary
-- Get the prints prepared (name tags, wireless network name/password information
+- Get the prints prepared (name badges, wireless network name/password information
 sheets, event program, the map of the venue, etc.).
 - Prepare parking permits.
 
@@ -903,7 +904,7 @@ sheets, event program, the map of the venue, etc.).
 
 #### Attendees
 
-- Help attendees with the event room and name tags.
+- Help attendees with the event room and name badges.
 - Give out promotional materials.
 - Round up people to attend the presentation.
 
@@ -1015,7 +1016,8 @@ to improve next years' hackathon(s).
 
 #### Attendees
 
-* Send a certificate of attendance to all the attendees.
+* Send a certificate of attendance to all the attendees. Tools to generate the
+certificates are available at [brainhackorg/brainhack_certificates](https://github.com/brainhackorg/brainhack_certificates).
 * Send a post-event survey to all the attendees to collect information in order
 to improve next years' hackathon(s).
 
