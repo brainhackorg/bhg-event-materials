@@ -25,5 +25,5 @@ Materials include:
 
 If you happen to have suggestions and thoughts on how to improve the current
 process and available materials, please share them with us or the community
-using the `Brainhack Global Mattermost channel`, or open a Pull Request in the
-appropriate repository. Thank you!
+using the current year Brainhack Global Event Mattermost channel, or open a Pull
+Request in the appropriate repository. Thank you!
