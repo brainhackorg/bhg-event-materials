@@ -406,7 +406,9 @@ In your tutorial preparations, you can look at those repositories listed below
 for suggestions of the tools and sources and also the previous years' materials
 to get inspired and reproduce:
 
-[https://github.com/Remi-Gau/hitchhackers_guide_brain](https://github.com/Remi-Gau/hitchhackers_guide_brain) [https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md](https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md) [https://github.com/brainhack101/neurolinks](https://github.com/brainhack101/neurolinks)
+[https://github.com/Remi-Gau/hitchhackers_guide_brain](https://github.com/Remi-Gau/hitchhackers_guide_brain)
+[https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md](https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md)
+[https://github.com/brainhack101/neurolinks](https://github.com/brainhack101/neurolinks)
 [http://www.brainhack.org/](http://www.brainhack.org/)
 
 
