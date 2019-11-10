@@ -487,6 +487,9 @@ organizer(s).
 - **FAQs**
 - **Sponsor information**
 
+A tool to generate your local Brainhack event website from a template is
+proposed in the following repository: https://github.com/brainhackorg/local_brainhack/
+
 ### Registration
 
 Based on the dates of the hackathon, registration should start at least a couple
