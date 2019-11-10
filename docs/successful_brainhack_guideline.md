@@ -483,7 +483,7 @@ the registration form (e.g. [Eventbrite](https://www.eventbrite.com/)).
 - **Contact point(s)**: email address(es) and affiliation(s) of the main
 organizer(s).
 - **Social accounts**: links to the social accounts associated with the event
-(e.g. Facebook, Twitter/GitHub, Mattermost channel).
+(e.g. GitHub, Mattermost channel, Twitter, YouTube, Facebook, Instagram, etc.).
 - **FAQs**
 - **Sponsor information**
 
@@ -555,8 +555,8 @@ social media and communication channels.
 #### Own resources
 
 It is recommended to run your own social media and communication channels by
-opening a Twitter account, a Mattermost channel dedicated to your own local
-event site, and sending emails to forums or email lists. By doing so, you will
+opening a Mattermost channel dedicated to your own local event site, a Twitter
+account, and sending emails to forums or email lists. By doing so, you will
 increase attention to and awareness of your event and effort:
 - Having a hashtag associated with your event makes the event more memorable;
 therefore, try to find one that matches your event and spread it via the social
@@ -571,7 +571,8 @@ event, it is recommended that you:
 `bhg19-boston` for a local event in Boston, MA, USA).
 2. Invite interested candidates.
 3. Make all announcements/updates simultaneously with the other social media/
-coding social media and communication channels (Twitter, GitHub, website).
+coding social media and communication channels (i.e. website, Mattermost,
+Twitter, GitHub, YouTube, Instagram, etc.).
 
 After projects are pitched, you should encourage teams to open their own
 Mattermost channel for efficient and sustainable communication during and also
