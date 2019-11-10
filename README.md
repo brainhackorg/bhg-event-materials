@@ -23,4 +23,7 @@ Materials include:
   * [The informatics underlying meta-analysis and reproducibility in neuroimaging](https://www.youtube.com/watch?v=w1A8BvJuN3s&list=PLfqBzCl5BL3-j_YW8qmxLY9R0MgPVtspN)
   * [Instructions for Broadcasting](/docs/brainhack_broadcasting_instructions.md)
 
-We are currently working on all materials you may need. Please bear with us and share your thoughts via the email above! Thank you!
+If you happen to have suggestions and thoughts on how to improve the current
+process and available materials, please share them with us or the community
+using the `Brainhack Global Mattermost channel`, or open a Pull Request in the
+appropriate repository. Thank you!
