@@ -406,26 +406,26 @@ In your tutorial preparations, you can look at those repositories listed below
 for suggestions of the tools and sources and also the previous years' materials
 to get inspired and reproduce:
 
-[https://github.com/Remi-Gau/hitchhackers_guide_brain](https://github.com/Remi-Gau/hitchhackers_guide_brain)
-[https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md](https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md)
-[https://github.com/brainhack101/neurolinks](https://github.com/brainhack101/neurolinks)
 [http://www.brainhack.org/](http://www.brainhack.org/)
+[https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md](https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md)
+[https://github.com/Remi-Gau/hitchhackers_guide_brain](https://github.com/Remi-Gau/hitchhackers_guide_brain)
+[https://github.com/brainhack101/neurolinks](https://github.com/brainhack101/neurolinks)
 
 
-### Set up a Working Repository in GitHub
+### Set up a Working Repository in Open/Free Access Repositories
 
-#### GitHub/Google Drive repository for the local Organizing Committee
+#### Open/Free Acces Repository for the Local Organizing Committee
 
 It is always recommended to set up a working repository in either Google Drive
-or GitHub where you can store your organizational proceedings and materials,
+or free access storages (eg. GitHub) where you can store your organizational proceedings and materials,
 made available to all of your team members. Doing so will help you to
 1. collaboratively make decisions as a group,
 2. follow the track of the work that needs to be done, and
 3. assign tasks to team members.
 
-#### GitHub repository for the Brainhack attendees**
+#### Open/Free Access Repository for the Brainhack Attendees**
 
-It is also recommended to set up a working repository in GitHub where
+It is also recommended to set up a working repository in an open/free access repository where
 speakers/tutors/project leaders can store their materials (e.g. slides, code,
 data, links, etc.). On the day of the event, make sure that the repository
 contains the latest, bug-free version of the materials to avoid any conflicts
@@ -1050,8 +1050,7 @@ One of the reasons why Brainhack attendees continue their collaboration(s) after
 the event is the possibility of publishing the final product of their Brainhack
 project. As organizers, you can provide them with a list of some of the possible
 publication opportunities. The first step towards publication is to get a DOI
-(digital object identifiers) for the project's code along with a repository in
-GitHub. Make your attendees aware that by using a DOI, their work will be
+(digital object identifiers) for the project's code along with a repository in an open access storage (eg. GitHub). Make your attendees aware that by using a DOI, their work will be
 recognized and cited properly. For more information on how to make code citable
 using a DOI, you can refer to/share [these guidelines](https://guides.github.com/activities/citable-code/) with your attendees.
 
