@@ -1054,7 +1054,7 @@ publication opportunities. The first step towards publication is to get a DOI
 recognized and cited properly. For more information on how to make code citable
 using a DOI, you can refer to/share [these guidelines](https://guides.github.com/activities/citable-code/) with your attendees.
 
-### Intelligent Property 
+### Intellectual Property 
 
 Brainhack aims to encourage all of its attendees on being inclusive and appreciative of any single work and effort that has been given by the members of the projects from the beginning until the publication submission. Brainhack does not assert any ownership over any of the work performed at Brainhack events or anything that comes from it. Beyond that, the ownership of work is an ethical issue that should be resolved by the team and really isn't any business of Brainhack organizers, unless they are explicitly asked (and agree) to arbitrate a dispute.
 
