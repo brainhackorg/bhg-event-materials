@@ -1,5 +1,9 @@
 # *How to* Guideline for Running a Successful Brainhack
 
+
+## Compiled By
+Isil Bilgin, Anibal SólonHeinsfeld, Jon Haitz Legarreta Gorroño, Peer Herholz, Sofie Van Den Bossche, Damion Demeter, Pierre Bellec, Cameron Craddock, Daniel Marguiles
+
 ## Before You Start
 
 The word "Brainhack" can be split into two terms; "brain" and "hackathon". And
