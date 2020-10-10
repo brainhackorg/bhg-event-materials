@@ -2,7 +2,7 @@
 
 
 ## Compiled By
-Isil Bilgin, Anibal SólonHeinsfeld, Jon Haitz Legarreta Gorroño, Peer Herholz, Sofie Van Den Bossche, Damion Demeter, Pierre Bellec, Cameron Craddock, Daniel Marguiles
+Isil Bilgin, Anibal Sólon Heinsfeld
 
 ## Before You Start
 
@@ -17,7 +17,7 @@ time please go through the below links that provides good starting points in wor
 
 
 # Leading a Virtual Project 🕸🌐
-Leading a hackathon project comes with a set of responsibilities, coordinating skills and ability to create a welcoming environment especially for the newcomers. As the project leader you should have clear project goals, a set of skill sets that you desire to get contributions toward, the list of tasks to assign to the team members, and an accompanying time schedule that would allow both finishing the tasks accordingly and allow project attendees to engage with the other events through the Brainhack (eg. Trainracks, coffee breaks, biological needs, family duties, resting). 
+Leading a hackathon project comes with a set of responsibilities, coordinating skills and ability to create a welcoming environment especially for the newcomers. Usually newcomers are highly likely to lack information about where to look for the right sources, tools and answers to their questions. They might be lacking the understanding of what is a Brainhack project means and how to contribute to the project during and after the event finishes. They might need a clear guidance and pointers from the start to the end. As the project leader you should have clear project goals, a set of skill sets that you desire to get contributions toward, the list of tasks to assign to the team members, and an accompanying time schedule that would allow both finishing the tasks accordingly and allow project attendees to engage with the other events through the Brainhack (eg. Trainracks, coffee breaks, biological needs, family duties, resting). Please always keep that in mind that, once you were a new comer too. Be polite, respectful, and show your support to the attendees. 
 
 As a project leader, it is recommended to keep your projects as broad as possible to give contribution chances to the researchers across many different backgrounds and career levels: being inclusive is at the heart of project leading. You are expected to define the scope of the projects so you can invite participation and contribution to your project. 
 
@@ -27,6 +27,7 @@ Independently from the event itself, make sure that you always encourage and add
 
 Once you create your team, you should be running the first meeting to share all the necessary details and listen to your attendees regarding their will in participating and their skill sets that they can contribute with. As the project leader your role is to coordinate the project with all the necessary elements from communication between the attendees, onboarding the newcomers onto the project, helping attendees to achieve a task and making sure the environment is kept welcoming throughout the whole event. 
 
+Before starting to your project and working group, please make sure that you and your team members are all read and clear about the [Code of Conduct](https://docs.google.com/document/d/11aE6vv67i9pzOUN7DTypqiAVUutXAijP7_jZTURHhAM/edit), and abide with the policy of the [Code of Conduct](https://docs.google.com/document/d/11aE6vv67i9pzOUN7DTypqiAVUutXAijP7_jZTURHhAM/edit).
 
 ## Before the Project Pitching
 
@@ -51,6 +52,8 @@ Once you create your team, you should be running the first meeting to share all 
 - Deploy easy documentation tools/processes that could be used and contributed by any attendees of the project, in order to keep the track of the project progress and keep everyone on track.  
 - Prepare a one-paragraph summary text that you can send to interested attendees that contact you via e-mail/ Twitter/ … Link to your readme and documentation if they have further questions.
 - Look for co-leaders! They do not necessarily need to be involved in the “planning” for the content, but they might be very helpful in taking care of your attendees during the project. Co-leaders should know about the tasks/ goals/ schedule before the project starts.
+- Make sure you are documenting your project well enough for the further use and contributors in the future which will include all the necessary instructions from installation to building the source, from using to how to contribute with all the necessary dependencies and licences, extensions and example data and links to the related documents and sources. Keep your documentation as simple, easy read and clear as possible given your users/contributors will not be only experts from the field but such approach will help you to have more contributions from wider contributors. 
+- Make sure every single contribution given by the members of the team are clearly listed in the documentations, repositories, acknowledgements and citings, with the list of the contributions given by those. 
 
 ## Project Ideas
 
@@ -92,7 +95,7 @@ Run a QA regarding the project initialization and running.
 - Make sure a timeline of your project execution includes enough breaks throughout the day allowing enough flexibility to the attendees from different time zones, family duties, and biological needs, etc. 
 - Follow the fair share of the sources and opportunities across the attendees.
 - Make sure you follow the timeline you agreed regarding the break times and encourage your attendees to follow and respect it.
-- Make sure you and your team members read and understand the Code of Conduct.
+- Make sure you and your team members read and understand the [Code of Conduct](https://docs.google.com/document/d/11aE6vv67i9pzOUN7DTypqiAVUutXAijP7_jZTURHhAM/edit).
 
 
 ## Running the Project
