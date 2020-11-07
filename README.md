@@ -19,7 +19,7 @@ Materials include:
 
 * Multimedia materials
   * [Public relations material](/media)
-  * [List of Open Science Tools for Running Tutorials/Data Storage etc.](https://github.com/Remi-Gau/hitchhackers_guide_brain)
+  * [List of Community Open Science Tools and Resources](https://github.com/learn-neuroimaging/tutorials-and-resources)
   * [Brainhack Tutorials Playlists](https://www.youtube.com/playlist?list=PLfqBzCl5BL394JtAdI4xJEH9vbmVYfE3j)
   * [Brainhack 101 Playlist](https://www.youtube.com/watch?v=XyMCsEGPcjM&list=PLfqBzCl5BL3-Gu1Wah_x_BoxcmgzVgpjx)
   * [The informatics underlying meta-analysis and reproducibility in neuroimaging](https://www.youtube.com/watch?v=w1A8BvJuN3s&list=PLfqBzCl5BL3-j_YW8qmxLY9R0MgPVtspN)
