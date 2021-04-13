@@ -25,6 +25,9 @@ Materials include:
   * [The informatics underlying meta-analysis and reproducibility in neuroimaging](https://www.youtube.com/watch?v=w1A8BvJuN3s&list=PLfqBzCl5BL3-j_YW8qmxLY9R0MgPVtspN)
   * [Instructions for Broadcasting](/docs/brainhack_broadcasting_instructions.md)
 
+* More Resources
+If you would like to read more about organizing hackathons and events [here](https://docs.google.com/spreadsheets/d/1hbxL5DsAt7BRitCXF2pvYtyxqs5HDMLnAGDxkKvLypk/edit?usp=sharing) you can find a list of some resources that we collected across the time. The sheet is updated as we encounter with nice resources to share with you all! 
+
 If you happen to have suggestions and thoughts on how to improve the current
 process and available materials, please share them with us or the community
 using the current year Brainhack Global Event Mattermost channel, or open a Pull
