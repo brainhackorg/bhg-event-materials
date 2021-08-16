@@ -7,7 +7,8 @@ To learn more about the details on hosting a Brainhack event on your local insti
 Materials include:
 * [*How to* Guideline for Running a Successful Brainhack](docs/successful_brainhack_guideline.md) along with a comprehensive [Flowchart](media/successful_brainhack_flowchart.pdf)
 * [*How to* Guideline for Leading and Attending to Brainhack Projects](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md)
-* [Event Checklist](https://docs.google.com/spreadsheets/d/1Oo86o-59AaLyH5INGWRrGciNlBHgJ9HB_Ssrd2P7n40/edit?usp=sharing)
+* [*How to* Guideline for Running a Successful Online/Hybrid Brainhack](https://docs.google.com/document/d/1uB375gGIWDYRO35YdKBSfGVJ_xs0aMqTqgIK1wtHbjc/edit#)
+* * [Event Checklist](https://docs.google.com/spreadsheets/d/1Oo86o-59AaLyH5INGWRrGciNlBHgJ9HB_Ssrd2P7n40/edit?usp=sharing)
 * [Brainhack Global Participant Registration Form](https://docs.google.com/forms/d/1dCy9NpprAtd1gZU6FBrvpSX9WwAGS54U_r7pLTiHScI/edit?usp=sharing) Please make a copy of the registration file and place it on your own Google drive for further use. Please make sure **you do not change the main template shared with you in this link!** 
 * Content suggestions for [Participant Registration Confirmation Email Template](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/participant_registration_confirmation_email_content_recomendations.md)
 * Local event templates: You can either use [Template_1](https://github.com/brainhackorg/brainhack-local-template_1) or [Template_2](https://github.com/brainhackorg/brainhack-local-template_2) for your event website
