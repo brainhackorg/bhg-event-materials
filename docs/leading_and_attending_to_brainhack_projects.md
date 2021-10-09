@@ -1,4 +1,4 @@
-# *How to* Guideline for Leading and Attending to Brainhack Projects
+# Guideline for Leading and Attending to Brainhack Projects
 
 
 ## Compiled By
