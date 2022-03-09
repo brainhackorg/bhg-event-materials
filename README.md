@@ -25,6 +25,8 @@ Materials include:
   * [Brainhack 101 Playlist](https://www.youtube.com/watch?v=XyMCsEGPcjM&list=PLfqBzCl5BL3-Gu1Wah_x_BoxcmgzVgpjx)
   * [The informatics underlying meta-analysis and reproducibility in neuroimaging](https://www.youtube.com/watch?v=w1A8BvJuN3s&list=PLfqBzCl5BL3-j_YW8qmxLY9R0MgPVtspN)
   * [Instructions for Broadcasting](/docs/brainhack_broadcasting_instructions.md)
+  * [Brainhack Logo](https://github.com/brainhackorg/brainhackorg.github.io/blob/main/assets/images/brainhack_logo_400x400.png)
+  * [Brainhack Header](https://github.com/brainhackorg/brainhackorg.github.io/blob/main/assets/images/brainhack_header.png)
 
 * More Resources
 
